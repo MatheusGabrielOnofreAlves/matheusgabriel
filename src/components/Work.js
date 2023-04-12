@@ -26,9 +26,9 @@ const Work = () => {
           
           <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'><span className='text-gradient'>Front-End</span></div>
 
-          <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+          <a href='https://controlefinanceiro10.netlify.app/' target='_blaket'><div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
             <span className='text-3xl text-white'>Gerenciamento Financeiro</span>
-          </div>
+          </div></a>
           <div></div>
         </div>
         </motion.div>

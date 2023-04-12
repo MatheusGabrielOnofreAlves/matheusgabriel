@@ -39,7 +39,7 @@ Técnica Estadual de São Paulo da cidade de Itu.
         </motion.p>
       <motion.div variants={fadeIn('up', 0.6)} initial='hidden' whileInView={'show'} viewport={{once: false, amount: 0.7}} className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
         <a href='mailto:matheusgabrielalves04@gmail.com'><button className='btn btn-lg'>Fale comigo</button></a>
-        <a href='https://github.com/MatheusGabrielOnofreAlves' target={'_blank'} className='text-gradient btn-link' >Meu portfolio</a>
+        <a href='work' target={'_blank'} className='text-gradient btn-link' >Meu portfolio</a>
       </motion.div>
       <motion.div variants={fadeIn('up', 0.7)} initial='hidden' whileInView={'show'} viewport={{once: false, amount: 0.7}} className='flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0'>
         <a href='https://github.com/MatheusGabrielOnofreAlves' target={'_blank'}>
