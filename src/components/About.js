@@ -25,12 +25,12 @@ const About = () => {
 isso procurei fazer cursos e workshops online, principalmentne na Rocketseat e DIO, onde estudei ReactJS e .NET.
 Atualmente estou no terceiro semestre no Ensino Superior em Análise e Desenvolvimento de Sistemas.
 
-Em 2022 tive a oportunidade de estar trabalhando em uma startup onde pude aprimorar meus conhecimentos em JavaScript, Angular, ReactJS, HTML, CSS e .NET</p>
+Em 2022 tive a oportunidade de estar trabalhando em uma startup onde pude aprimorar meus conhecimentos em JavaScript, Angular, ReactJS, HTML, CSS e .NET, Atualmente estou trabalhando como estagiario para a prefeitura de Itu</p>
 
 <div className='flex'>
   <div>
     <div className='text-[40px] font-tertiary text-gradient mb-2'>
-      {inView ? <CountUp start={0} end={1} duration={3} /> : null}
+      {inView ? <CountUp start={0} end={2} duration={3} /> : null}
     </div>
     <div className='font-primary text-sm tracking-[2px]'>Ano de <br/> Experiencia</div>
    <div className='flex gap-x-8 items-center'>
